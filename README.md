@@ -4,3 +4,4 @@ commmit-Nicolas
 commit-Mateus-Lima
 Commit-LuizGustavo
 Commit-Thamyres-B-Lopes
+commit-Pérola
